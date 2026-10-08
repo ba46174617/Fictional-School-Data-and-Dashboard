@@ -10,9 +10,10 @@ Use the button at the top of each page to navigate back and forth
 
 # Features
 - **Subject averages**: compares average performance in the core subjects and results are grouped by combinations of major and form
- - Do students perform better in the subject they major in?
- - Performance differences between forms?
- - Which subject/form combinations achieve the highest average score?
+  - Do students perform better in the subject they major in?
+  - Performance differences between forms?
+  - Which subject/form combinations achieve the highest average score?
+
 - **Student addresses**: geographical distribution of students colour-coded by form
  - Where students live?
  - Are students from particular forms geographically clustered?

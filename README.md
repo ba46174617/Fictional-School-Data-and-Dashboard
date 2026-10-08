@@ -7,6 +7,7 @@ This is a PowerBI dashboard providing a snapshot of pupils' habits and performan
 Use the button at the top of each page to navigate back and forth
 <img src="screenshots/Page 1.png">
 <img src="screenshots/Page 2.png">
+
 # Features
 - **Subject averages**: compares average performance in the core subjects and results are grouped by combinations of major and form
  - Do students perform better in the subject they major in?
@@ -35,6 +36,7 @@ Use the button at the top of each page to navigate back and forth
  - Do students who exercise more complete the 100m run more quickly?
  - Error bars show variation in recorded attempts
  - Apparent relationships are correlations rather than evidence of causation
+
 # Using the dashboard
 1. Start with filters cleared to view the full population
 2. Select a form or major to compare student groups
@@ -43,6 +45,7 @@ Use the button at the top of each page to navigate back and forth
 5. Hover over chart points or bars where supported to view additional values
 6. Use the navigation buttons to move between the pages
 7. Clear filters before beginning a new comparison to avoid accidentally carrying previous selections to the next analysis
+
 # Interpretations and limitations
 This dashboard is designed for **exploratory analysis**. Users should consider the following when interpreting results:
 - Correlation doesn't establish causation

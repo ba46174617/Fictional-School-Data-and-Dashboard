@@ -15,28 +15,33 @@ Use the button at the top of each page to navigate back and forth
   - Which subject/form combinations achieve the highest average score?
 
 - **Student addresses**: geographical distribution of students colour-coded by form
- - Where students live?
- - Are students from particular forms geographically clustered?
- - General geographical distribution of the Yr 10 cohort?
+  - Where students live?
+  - Are students from particular forms geographically clustered?
+  - General geographical distribution of the Yr 10 cohort?
+
 - **Hours spent on activity per week**: comparison of students' average weekly time spent on core subjects' study and exercise
- - Compare students' study and exercise patterns and identify unusually high or low activity levels
+  - Compare students' study and exercise patterns and identify unusually high or low activity levels
+
 - **Average scores vs Study hours**: scatter plot investigating relationship between weekly study hours and average test performance for core subjects; the relationships shown are associations and should not be interpreted as causal
- - Is increased study time associated with higher marks?
- - Is the relationship stronger for some subjects than others?
- - Are there students whose results are unusually high or low relative to their study hours?
+  - Is increased study time associated with higher marks?
+  - Is the relationship stronger for some subjects than others?
+  - Are there students whose results are unusually high or low relative to their study hours?
+
 - **Sports day KPIs**:
- - **Average hours of exercise per week - cohort**: average weekly exercise level across the wider student cohort
- - **Average hours of exercise per week - sports day participants**: average weekly exercise level for students participating in sports day
-  - Compare exercise habits of both groups
-  - Differences between the two figures should be interpreted descriptively; they don't themselves demonstrate that Sports day participation is caused by exercise frequency
+  - **Average hours of exercise per week - cohort**: average weekly exercise level across the wider student cohort
+  - **Average hours of exercise per week - sports day participants**: average weekly exercise level for students participating in sports day
+    - Compare exercise habits of both groups
+    - Differences between the two figures should be interpreted descriptively; they don't themselves demonstrate that Sports day participation is caused by exercise frequency
+
 - **Number of hits vs distance of dart from centre**: distribution of number of hits and at which centre
- - visual representation of dart accuracy
- - smaller distances from the centre represent more accurate throws
+  - visual representation of dart accuracy
+  - smaller distances from the centre represent more accurate throws
+
 - **Javelin distance and 100m run time vs exercise hours**: relationship between weekly exercise and two Sports day performance measures: average javelin distance and average 100m running time
- - Do students who exercise more throw the javelin farther?
- - Do students who exercise more complete the 100m run more quickly?
- - Error bars show variation in recorded attempts
- - Apparent relationships are correlations rather than evidence of causation
+  - Do students who exercise more throw the javelin farther?
+  - Do students who exercise more complete the 100m run more quickly?
+  - Error bars show variation in recorded attempts
+  - Apparent relationships are correlations rather than evidence of causation
 
 # Using the dashboard
 1. Start with filters cleared to view the full population
